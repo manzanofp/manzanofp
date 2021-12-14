@@ -1,7 +1,7 @@
 ### Olá Mundo, Eu sou o Felipe Manzano! 👋
   👨‍🎓  Estudando: Desenvolvimento Web Java em [PROA](https://www.proa.org.br).
   
-  🌱  Aprendendo: html, css, JavaScript.
+  🌱  Aprendendo: html, css, JavaScript e Java.
   
   🎒  Ferramentas: Visual Studio Code e GitHub.
   <div>
