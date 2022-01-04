@@ -1,9 +1,8 @@
 ### Olá Mundo, Eu sou o Felipe Manzano! 👋
-  👨‍🎓  Estudando: Desenvolvimento Web Java em [PROA](https://www.proa.org.br).
+
+  🌱  Aprendendo: html, css, JavaScript, Java e Spring Boot.
   
-  🌱  Aprendendo: html, css, JavaScript e Java.
-  
-  🎒  Ferramentas: Visual Studio Code e GitHub.
+  🎒  Ferramentas: Visual Studio Code, Eclipse, Postman, MySQL Workbench.
   <div>
   <a href="https://github.com/manzanofp">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=manzanofp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
