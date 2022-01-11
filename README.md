@@ -1,6 +1,6 @@
 ### Olá Mundo, Eu sou o Felipe Manzano! 👋
 
-  🌱  Aprendendo: html, css, JavaScript, Java e Spring Boot.
+  🌱  Aprendendo: Java, JavaEE, JPA, Hibernate, APIRest e Spring Boot.
   
   🎒  Ferramentas: Visual Studio Code, Eclipse, Postman, MySQL Workbench.
   <div>
