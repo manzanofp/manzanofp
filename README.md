@@ -1,8 +1,8 @@
 ### Olá Mundo, Eu sou o Felipe Manzano! 👋
 
-  🌱  Aprendendo: Java, JavaEE, JPA, Hibernate, APIRest e Spring Boot.
+  🌱  Aprendendo: Java, JavaEE, JPA, Hibernate, APIRest, Spring Framework, Angular.
   
-  🎒  Ferramentas: Visual Studio Code, Eclipse, Postman, MySQL Workbench.
+  🎒  Ferramentas: Visual Studio Code, Eclipse, Postman, MySQL Workbench, pgAdmin.
   <div>
   <a href="https://github.com/manzanofp">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=manzanofp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
