@@ -1,6 +1,6 @@
 ### Olá Mundo, Eu sou o Felipe Manzano! 👋
 
-  🌱  Aprendendo: Java, JSF, JavaEE, JPA, Hibernate, APIRest, Spring Framework, Angular.
+  🌱  Estudando sobre: Java, JSF, JavaEE, JPA, Hibernate, APIRest, Spring Framework, Angular.
   
   🎒  Ferramentas: Visual Studio Code, Eclipse, Postman, MySQL Workbench, pgAdmin.
   <div>
