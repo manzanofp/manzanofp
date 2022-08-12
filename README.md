@@ -1,8 +1,7 @@
 ### Olá Mundo, Eu sou o Felipe Manzano! 👋
-
-  🌱  Estudando sobre: C#, .NET, Testes unitários com xUnit.
   
-  🎒  Ferramentas: Java, Spring Framework, MySQL, PostgreSQL.
+  🎒  Ferramentas: Java, Spring Framework, MySQL, PostgreSQL, AWS, Docker.
+
   <div>
   <a href="https://github.com/manzanofp">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=manzanofp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
