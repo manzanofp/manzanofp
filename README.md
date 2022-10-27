@@ -1,6 +1,8 @@
 ### Olá Mundo, Eu sou o Felipe Manzano! 👋
   
-  🎒  Ferramentas: Java, Spring Framework, MySQL, PostgreSQL, AWS, Docker.
+  👨‍💻 Tecnologias do momento: Java, Spring Framework, MySQL, AWS, Docker.
+  🛠  Tecnologias que já utilizei: Html5, Css3, JavaScript, NodeJs, TypeScript, H2DataBase, PostgreSQL, Python.
+  🎓 Cursando Análise e desenvolvimento de sistemas no Centro Universitário SENAC.
 
   <div>
   <a href="https://github.com/manzanofp">
