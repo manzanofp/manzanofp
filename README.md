@@ -1,8 +1,8 @@
 ### Olá Mundo, Eu sou o Felipe Manzano! 👋
   
-  👨‍💻 Tecnologias do momento: Java, Spring Framework, MySQL, AWS, Docker.
-  🛠  Tecnologias que já utilizei: Html5, Css3, JavaScript, NodeJs, TypeScript, H2DataBase, PostgreSQL, Python.
-  🎓 Cursando Análise e desenvolvimento de sistemas no Centro Universitário SENAC.
+  👨‍💻 Tecnologias do momento: Java, Spring Framework, MySQL, AWS, Docker. <br>
+  🛠  Tecnologias que já utilizei: Html5, Css3, JavaScript, NodeJs, TypeScript, H2DataBase, PostgreSQL, Python. <br>
+  🎓 Cursando Análise e desenvolvimento de sistemas no Centro Universitário SENAC. <br>
 
   <div>
   <a href="https://github.com/manzanofp">
